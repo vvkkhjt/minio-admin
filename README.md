@@ -1,6 +1,6 @@
-
-
 # minio-admin
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvvkkhjt%2Fminio-admin.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvvkkhjt%2Fminio-admin?ref=badge_shield)
+
 
 ## Description
 Minio-admin is a management tool for minio users and policies, which has been changed from the native command line mode of minio to a simple and convenient UI interface. The project is divided into front and rear end projects, front end vue, and back end golang gin.
@@ -46,3 +46,7 @@ Use your browser to open localhost8000
 
 - minio ：https://min.io/
 - github：https://github.com/minio/
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvvkkhjt%2Fminio-admin.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvvkkhjt%2Fminio-admin?ref=badge_large)
